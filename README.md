@@ -33,6 +33,8 @@
 # 5. Венгерский Алгоритм
 Реализация Венгерского алгоритма для поиска максимального паросочетания в двудольном графе.  В программу на вход поступает матрица транспортной сети, на выходе программа выдает значение максимального паросочетания
 
+# P.s. Весь код сделан в обучающих целях
+Я не являюсь профессиональным разработчиком, данные программы сделаны в целях обучения, я никого не призываю использовать данный код как проффесиональный.
 
 # Graphs and Transport networks: Algorithm Implementations
 
@@ -67,3 +69,6 @@ A CSV file with lists of transport network adjacency is received at the input of
 
 # 5. Hungarian Algorithm
 Implementation of the Hungarian algorithm for finding the maximum match in a bipartite graph.  The program receives a matrix of the transport network at the input, at the output the program outputs the value of the maximum match
+
+# P.s. All the code is made for educational purposes
+I am not a professional developer, these programs are made for training purposes, I do not encourage anyone to use this code as professional.
