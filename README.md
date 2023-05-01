@@ -83,7 +83,7 @@ A CSV file with lists of transport network adjacency is received at the input of
 # 6. Hungarian Algorithm
 Implementation of the Hungarian algorithm for finding the maximum match in a bipartite graph.  The program receives a matrix of the transport network at the input, at the output the program outputs the value of the maximum match
 
-#7. Dijkstra's algorithm
+# 7. Dijkstra's algorithm
 Dijkstra's algorithm is an algorithm for finding the shortest path in a weighted graph with non-negative edge weights. It was proposed by the Dutch scientist Edsger Dijkstra in 1959.
 
 The algorithm starts by selecting a starting vertex and setting a zero distance for it. Then it goes to neighboring vertices and updates their distances if it finds a shorter path. This process is repeated until all vertices are visited.
